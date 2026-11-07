@@ -1,0 +1,58 @@
+[
+  {
+    "generic_name": "Atorvastatin",
+    "brand_names": ["Lipitor"],
+    "drug_class": "Statin",
+    "primary_use": "Lowers blood cholesterol and triglycerides to reduce the risk of heart disease.",
+    "common_side_effects": ["Muscle pain", "Joint pain", "Diarrhea", "Nausea"]
+  },
+  {
+    "generic_name": "Metformin",
+    "brand_names": ["Glucophage", "Riomet"],
+    "drug_class": "Biguanide",
+    "primary_use": "Manages blood sugar levels in type 2 diabetes mellitus.",
+    "common_side_effects": ["Nausea", "Vomiting", "Stomach upset", "Diarrhea"]
+  },
+  {
+    "generic_name": "Lisinopril",
+    "brand_names": ["Prinivil", "Zestril"],
+    "drug_class": "ACE Inhibitor",
+    "primary_use": "Treats high blood pressure and heart failure, and improves survival after a heart attack.",
+    "common_side_effects": ["Dry cough", "Dizziness", "Headache", "Fatigue"]
+  },
+  {
+    "generic_name": "Amlodipine",
+    "brand_names": ["Norvasc"],
+    "drug_class": "Calcium Channel Blocker",
+    "primary_use": "Treats high blood pressure and coronary artery disease.",
+    "common_side_effects": ["Swelling in ankles or feet", "Fatigue", "Flushing", "Dizziness"]
+  },
+  {
+    "generic_name": "Omeprazole",
+    "brand_names": ["Prilosec"],
+    "drug_class": "Proton Pump Inhibitor (PPI)",
+    "primary_use": "Treats gastroesophageal reflux disease (GERD) and stomach ulcers by reducing stomach acid.",
+    "common_side_effects": ["Headache", "Abdominal pain", "Nausea", "Diarrhea"]
+  },
+  {
+    "generic_name": "Sertraline",
+    "brand_names": ["Zoloft"],
+    "drug_class": "SSRI (Selective Serotonin Reuptake Inhibitor)",
+    "primary_use": "Treats depression, panic attacks, OCD, PTSD, and social anxiety disorder.",
+    "common_side_effects": ["Nausea", "Insomnia", "Dry mouth", "Drowsiness", "Sexual dysfunction"]
+  },
+  {
+    "generic_name": "Salbutamol",
+    "brand_names": ["Ventolin", "Proair"],
+    "drug_class": "Bronchodilator (Short-Acting Beta-2 Agonist)",
+    "primary_use": "Relieves acute bronchospasm in asthma and chronic obstructive pulmonary disease (COPD).",
+    "common_side_effects": ["Tremors", "Nervousness", "Rapid heart rate", "Headache"]
+  },
+  {
+    "generic_name": "Amoxicillin",
+    "brand_names": ["Amoxil", "Trimox"],
+    "drug_class": "Penicillin Antibiotic",
+    "primary_use": "Treats a wide variety of bacterial infections, such as ear, nose, throat, and skin infections.",
+    "common_side_effects": ["Diarrhea", "Nausea", "Vomiting", "Skin rash"]
+  }
+]

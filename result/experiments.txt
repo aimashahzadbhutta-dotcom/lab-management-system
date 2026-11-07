@@ -1,0 +1,3 @@
+Gel Electrophoresis == Passed
+PCR == Failed
+Chromatography == Passed
